@@ -1,0 +1,20 @@
+#global{
+    border: 1px;
+    background-color: green;
+    height: 1000px;
+}
+
+#header{
+border: 1px;
+background: yellow;
+height: 100px;
+margin: 5px;
+padding: 5px;
+}
+#contenu{
+    border: 1px;
+    background: yellow;
+    height: 900px;
+    margin: 5px;
+    padding: 5px;
+    }
